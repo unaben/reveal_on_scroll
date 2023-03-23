@@ -39,7 +39,7 @@ section {
 
 .content {
   position: relative;
-  width: 1150px;
+  max-width: 1200px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -49,7 +49,7 @@ section {
   position: relative;
   width: 800px;
   height: 400px;
-  overflow: hiddem;
+  overflow: hidden;
 }
 
 .content .image img {
